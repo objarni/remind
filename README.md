@@ -1,26 +1,8 @@
-ReMind - minimalistic Collect+Process system
-============================================
+Repo deprecated! Sorry.
 
-ReMind is a minimalistic partial Getting Things Done (GTD) system
-that focuses on the Collect and Process part of GTD.
+Instead of a monolith repo, I've split up the ReMind solution in three different repos:
 
-It provides two use cases:
-
-	1. Collecting a thought via mobile phone browser.
-	2. Processing previous thoughts on a desktop browser.
-
-That's it!
-
-
-Folder structure
-----------------
-
-	doc/ documentation, including choice of tech and architecture overview.
-	     This is in Swedish for now.
-
-	src/ all things implementational
-
-	src/frontend mobile and desktop HTML pages.
-
-	src/backend WebAPI providing storage for collected thoughts
+	[remind-frontend - web pages](https://github.com/objarni/remind-frontend)
+	[remind-backend - web service](https://github.com/objarni/remind-backend)
+	[remind-docs - project documentation in Swedish](https://github.com/objarni/remind-docs)
 
