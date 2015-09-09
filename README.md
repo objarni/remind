@@ -15,12 +15,12 @@ That's it!
 Folder structure
 ----------------
 
-	doc/ documentation, including choice of tech and architecture overview.
-	     This is in Swedish for now.
+	doc/ 		documentation, including choice of tech and architecture overview.
+	     		This is in Swedish for now.
 
-	src/ all things implementational
+	src/		all things implementational.
 
-	src/frontend mobile and desktop HTML pages.
+	src/frontend/ 	mobile and desktop HTML pages.
 
-	src/backend WebAPI providing storage for collected thoughts
+	src/backend/	WebAPI providing storage for collected thoughts.
 
